@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.11.25
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.13.8
 	github.com/aws/aws-sdk-go-v2/service/sts v1.17.4
-	github.com/google/go-cmp v0.5.8
+	github.com/google/go-cmp v0.5.9
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	golang.org/x/sys v0.2.0
 	golang.org/x/term v0.2.0
